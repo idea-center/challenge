@@ -1,0 +1,13 @@
+ID,NAME,ABBR,SORTINDEX,PARENT
+1,"Faculty member",Faculty,1,NULL
+2,"Regular faculty",Faculty,2,1
+3,"Adjunct faculty",Adjuncts,3,1
+4,Student,Students,4,NULL
+5,"Administrator's staff","Your staff",5,NULL
+6,"Professional colleague/associate",Colleagues,6,NULL
+7,"Department head/chair",Chairs/heads,7,NULL
+8,Dean,Deans,8,NULL
+9,"Governing board member",Board,9,NULL
+10,"Community member",Community,10,NULL
+11,Alumnus/alumna,Alumni,11,NULL
+12,Other,Other,12,NULL

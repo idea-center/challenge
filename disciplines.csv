@@ -1,0 +1,338 @@
+CODE,NAME,ABBR
+100,"Agricultural Business & Production",AGBUSPR
+101,"Agricultural Business & Management",AGBUSMT
+102,"Agricultural Mechanization",AGMECH
+103,"Agricultural Production Workers & Managers",AGPROD
+104,"Agricultural & Food Products Processing",AGFDPR
+105,"Agricultural Supplies & Related Services",AGSUP
+106,"Horticulture Services Operations & Management",HORT
+107,"International Agriculture",INTLAG
+200,"Agricultural Sciences",AGSCI
+202,"Animal Sciences",ANIMSCI
+203,"Food Sciences & Technology",FDSCTC
+204,"Plant Sciences",PLANTSC
+205,"Soil Sciences",SOILSCI
+300,"Conservation & Renewable Natural Resources",CONSV
+302,"Natural Resources Management & Protective Services",NATRMT
+303,"Fishing & Fisheries Sciences & Management",FISHSCI
+304,"Forest Production & Processing",FORSTPR
+305,"Forestry and Related Sciences",FORSTSC
+306,"Wildlife & Wildlands Management",WILDMGT
+400,"Architecture & Related Programs",ARCHPRG
+402,Architecture,ARCH
+403,"City/Urban/Community & Regional Planning",CITYPLN
+404,"Architectural Environmental Design",AENVDGN
+405,"Interior Architecture",INTARCH
+406,"Landscape Architecture",LNDARCH
+407,"Architectural Urban Design & Planning",URBARCH
+500,"Area, Ethnic & Cultural Studies",ARECS
+501,"Area Studies",AREASTU
+502,"Ethnic, Minority, & Gender Studies",CULGENS
+800,"Marketing Operations/Marketing & Distribution",MKOPDIS
+801,"Apparel & Accessories Marketing Operations",APACMK
+802,"Business & Personal Services Marketing Operations",BPSVSMK
+803,Entrepreneurship,ENTREP
+804,"Financial Services Marketing Operations",FNSVSMK
+805,"Floristry Marketing Operations",FLORMK
+806,"Food Products Retailing & Wholesaling Operations",FOODPRW
+807,"General Retail & Wholesaling Operations & Skills",GENRW
+808,"Home & Office Products Marketing Operations",HOPRMK
+809,"Hospitality & Recreation Marketing Operations",HSPRCMK
+810,"Insurance Marketing Operations",INSMKOP
+811,"Tourism & Travel Services Marketing Operations",TOURMK
+812,"Vehicle & Petroleum Products Marketing Operations",VPPRDMK
+813,"Health Products & Services Marketing Operations",HLPRSVM
+900,Communications,COMM
+902,Advertising,ADVERT
+904,"Journalism & Mass Communications",JRNMSCM
+905,"Public Relations & Organizational Communications",PRORGCM
+907,"Radio, Television and Digital Communications",RTVBRCT
+1000,"Communications Technologies",COMTECH
+1002,"Audiovisual Communications Technology",AVCOMTECH
+1003,"Graphic Communications",GRAPHCOM
+1100,"Computer & Information Sciences",CMPINSC
+1102,"Computer Programming",CMPPRG
+1103,"Data Processing Technology",DATPRTC
+1104,"Information Sciences & Systems",INSCSYS
+1105,"Computer Systems Analysis",CMPSYAN
+1107,"Computer Science",CMPSCI
+1108,"Computer Software and Media Applications",COMPSOFTMAPP
+1202,"Gaming & Sports Officiating Services",GAMSPOF
+1203,"Funeral Services & Mortuary Science",FLMRTSC
+1204,"Cosmetic Services",COSMSVS
+1205,"Culinary Arts & Related Services",CULARTS
+1300,Education,EDUC
+1302,"Bilingual/Bicultural Education",BILNGED
+1303,"Curriculum & Instruction",CURINST
+1304,"Education Administration & Supervision",EDADMSU
+1305,"Educational/Instructional Media Design",EDINSMD
+1306,"Educational Evaluation, Research & Statistics",EDEVLRS
+1307,"International & Comparative Education",ITLCPED
+1308,"Educational Psychology",EDPSYCH
+1309,"Social & Philosophical Foundations of Education",SOCPHED
+1310,"Special Education",SPECED
+1311,"Student Counseling & Personnel Services",STCLSVS
+1312,"General Teacher Education",GENED
+1313,"Teacher Education, Specific Academic & Vocational Programs",EDSPCVO
+1314,"Teaching English as a Second Language/Foreign Language",TESL
+1315,"Teacher Assistant/Aide",TEASAID
+1320,"Vocational-Technical Education",VOTECED
+1332,"Physical Education/Health/Safety Education",PEHSFED
+1400,Engineering,ENGR
+1402,"Aerospace, Aeronautical, & Astronautical Engineering",AEAOENG
+1403,"Agricultural Engineering",AGENGR
+1404,"Architectural Engineering",ARCHENG
+1405,"Bioengineering & Biomedical Engineering",BIOENGR
+1406,"Ceramic Sciences & Engineering",CRSCENG
+1407,"Chemical Engineering",CHMENGR
+1408,"Civil Engineering",CIVLENGR
+1409,"Computer Engineering",CMPENGR
+1410,"Electrical, Electronics, & Communications Engineering",EECMENG
+1411,"Engineering Mechanics",ENGRMEC
+1412,"Engineering Physics",ENGRPHY
+1413,"Engineering Science",ENGRSCI
+1414,"Environmental/Environmental Health Engineering",ENVHLEN
+1415,"Geological Engineering",GEOLENG
+1416,"Geophysical Engineering",GEOPENG
+1417,"Industrial/Manufacturing Engineering",INDMFEN
+1418,"Materials Engineering",MTLSENG
+1419,"Mechanical Engineering",MECHENG
+1420,"Metallurgical Engineering",METENGR
+1421,"Mining & Mineral Engineering",MINENGR
+1422,"Naval Architecture & Marine Engineering",NVMAREN
+1423,"Nuclear Engineering",NUCLENG
+1424,"Ocean Engineering",OCEANEN
+1425,"Petroleum Engineering",PETRLEN
+1427,"Systems Engineering",SYSTENG
+1428,"Textile Sciences & Engineering",TEXSCEN
+1429,"Engineering Design",ENDESGN
+1430,"Engineering/Industrial Management",ENINDMT
+1431,"Materials Science",MATLSCI
+1432,"Polymer/Plastics Engineering",POLYENG
+1500,"Engineering-Related Technologies",ENGTECH
+1501,"Architectural Engineering Technology",ARCHTEC
+1502,"Civil Engineering/Civil Technology",CIVTECH
+1503,"Electrical & Electronic Engineering-Related Technologies",ELECTEC
+1504,"Electromechanical Instrumentation & Maintenance Technology",MECHTEC
+1505,"Environmental Control Technologies",ENVRTEC
+1506,"Industrial Production Technologies",INDLTEC
+1507,"Quality Control Technologies",QUALTEC
+1508,"Mechanical Engineering-Related Technologies",MECHTEC
+1509,"Mining & Petroleum Technologies",MINETEC
+1510,"Construction/Building Technology",CONSTEC
+1511,"Miscellaneous Engineering-Related Technologies",ENGRTEC
+1600,"Foreign Languages & Literatures",FORLANG
+1603,"East & Southeast Asian Languages & Literatures",EASIANL
+1604,"East European Languages & Literatures",EEUROL
+1605,"Germanic Languages & Literatures",GERMANL
+1606,"Greek Languages & Literatures (Modern)",GREEKL
+1607,"South Asian Languages & Literatures",SASIANL
+1609,"Romance Languages & Literatures",ROMANCL
+1611,"Middle Eastern Languages & Literatures",MIDEAST
+1612,"Classical & Ancient Near Eastern Languages & Literatures",CLASSEL
+1900,"Human Sciences/Family & Consumer Sciences",HSFACS
+1902,"Human Sci/Family & Consumer Sci Business Services",HSFACBS
+1903,"Family & Community Studies",FAMCOMM
+1904,"Family/Consumer Resource Management",FAMCONS
+1905,"Foods & Nutrition Studies",FNSTUD
+1906,"Housing Studies",HOUSSTU
+1907,"Individual & Family Development Studies",INFMDVL
+1909,"Clothing/Apparel & Textile Studies",CLAPTXS
+2000,"Vocational Home Economics",VOCHEC
+2002,"Child Care & Guidance Workers and Managers",CCGDMGR
+2003,"Clothing, Apparel, & Textile Workers and Managers",CLAPTXM
+2004,"Institutional Food Workers and Administrators",INSTFD
+2005,"Home Furnishings & Equipment Installers and Consultants",HOMCONS
+2006,"Custodial/Housekeeping & Home Services Workers/Managers",CUSTMGR
+2200,"General Legal Studies",GENLEGL
+2202,"Law (Post-baccalaureate)",LAW
+2301,"English Language & Literature General",ENGLGEN
+2303,"Comparative Literature",COMPRLT
+2304,"English Composition",ENGCOMP
+2305,"English Creative Writing",ENGCREW
+2307,"American Literature (United States)",AMERLIT
+2308,"English Literature (British & Commonwealth)",ENGBRIT
+2310,"Speech & Rhetorical Studies",SPCHRHT
+2311,"English Technical & Business Writing",ENGTECW
+2400,"Liberal Arts & Sciences, General Studies & Humanities",LIBARTS
+2500,"Library Science",LIBRSCI
+2600,"Biological Sciences/Life Sciences",BIOLIFE
+2601,"Biology, General",BIOLOGY
+2602,"Biochemistry & Biophysics",BIOCHPH
+2603,Botany,BOTANY
+2604,"Cell & Molecular Biology",CMOLBIO
+2605,Microbiology/Bacteriology,MICRBAC
+2606,"Miscellaneous Biological Specializations",MISCBIO
+2607,Zoology,ZOOLOGY
+2700,"Mathematics & Statistics",MATSTAT
+2701,Mathematics,MATH
+2703,"Applied Mathematics",APPLMAT
+2705,"Mathematical Statistics",MATLSTA
+2900,"Military Science/Technologies",MILSTEC
+3000,"Multi/Interdisciplinary Studies",INTRDIS
+3001,"Biological & Physical Sciences",BIOPHYS
+3005,"Peace & Conflict Studies",PEACEST
+3006,"Systems Science & Theory",SYSTSCI
+3008,"Mathematics & Computer Science",MATCOMP
+3010,Biopsychology,BIOPSYC
+3011,Gerontology,GERON
+3012,"Historic Preservation, Conservation & Architecture History",HISARCH
+3013,"Medieval & Renaissance Studies",MEDRNST
+3014,"Museology/Museum Studies",MUSEUM
+3015,"Science, Technology & Society",SCTCSOC
+3020,"International/Global Studies",INTGLBS
+3025,"Cognitive Science",COGSCI
+3100,"Parks, Recreation, Leisure, & Fitness Studies",PKRCLSF
+3103,"Parks, Recreation, Leisure, & Facilities Management",PKRCLSM
+3105,"Health & Physical Education/Fitness",HLTPEFT
+3201,"Basic Skills",BASICSKL
+3801,Philosophy,PHILOS
+3900,"Religion & Theological Studies",RELTHEO
+3901,"Biblical & Other Theological Languages & Literatures",BIBTHEO
+3902,"Bible/Biblical Studies",BIBSTUD
+3903,"Missions/Missionary Studies & Misology",MISSNST
+3904,"Religious Education",RELEDUC
+3905,"Religious/Sacred Music",RELMUSC
+3906,"Theological & Ministerial Studies",THEOMIN
+3907,"Pastoral Counseling & Specialized Ministries",PASCNSL
+4000,"Physical Sciences",PHSYSCI
+4002,Astronomy,ASTRON
+4003,Astrophysics,ASTROPH
+4004,"Atmospheric Sciences & Meteorology",ATMOMET
+4005,Chemistry,CHEM
+4006,"Geological & Related Sciences",GEOLSCI
+4007,"Miscellaneous Physical Sciences",MISCPHY
+4008,Physics,PHYSICS
+4100,"Science Technologies",SCITECH
+4101,"Biological Technology",BIOTECH
+4102,"Nuclear & Industrial Radiologic Technologies",NUCTECH
+4103,"Physical Sciences Technologies",PHYTECH
+4200,Psychology,PSYCH
+4202,"Clinical Psychology",CLPSYCH
+4203,"Cognitive Psychology & Psycholinguistics",CGPSYCH
+4204,"Community Psychology",CMPSYCH
+4206,"Counseling Psychology",CNPSYCH
+4207,"Development & Child Psychology",DCPSYCH
+4208,"Experimental Psychology",EXPSYCH
+4209,"Industrial & Organizational Psychology",IOPSYCH
+4211,"Physiological Psychology/Psychobiology",PHPSYCH
+4216,"Social Psychology",SOPSYCH
+4217,"School Psychology",SCPSYCH
+4300,"Protective Services",PROTSVC
+4301,"Criminal Justice & Corrections",CRIMJST
+4302,"Fire Protection",FIREPRT
+4400,"Public Administration & Services",PUBADSV
+4402,"Community Organization, Resources & Services",COMMORG
+4404,"Public Administration",PUBADMN
+4405,"Public Policy Analysis",PUBPLCY
+4407,"Social Work & Service",SOCWRK
+4500,"Social Sciences",SOCSCI
+4502,Anthropology,ANTHRO
+4503,Archeology,ARCHEOL
+4504,Criminology,CRIMIN
+4505,"Demography/Population Studies",DEMOPOP
+4506,Economics,ECON
+4507,Geography,GEOG
+4508,History,HIST
+4509,"International Relations & Affairs",INTLREL
+4510,"Political Science & Government",POLYSCI
+4511,Sociology,SOC
+4512,"Urban Affairs/Studies",URBSTUD
+4600,"Construction Trades",CONSTRT
+4601,"Masons & Tile Setters",MASNTIL
+4602,Carpenters,CARPNTR
+4603,"Electrical & Power Transmission Installers",ELECINS
+4604,"Construction & Building Finishers & Managers",CONTMGR
+4605,"Plumbers & Pipefitters",PLUMPIP
+4700,"Mechanics & Repairers",MECHREP
+4701,"Electrical & Electronics Equipment Installers & Repairers",ELECEQU
+4702,"Heating, AC, & Refrigeration Mechanics/Repairers",HVACREF
+4703,"Industrial Equipment Maintenance & Repairers",INDEQUP
+4704,"Miscellaneous Mechanics & Repairers",MISCREP
+4705,"Stationary Energy Sources Installers & Operators",ENGYSRC
+4706,"Vehicle & Mobile Equipment Mechanics & Repairers",MOBEQUP
+4800,"Precision Production Trades",PRECPRD
+4801,Drafting,DRAFT
+4802,"Graphic & Printing Equipment Operators",GRAPHEQ
+4803,"Leatherworkers & Upholsterers",LEATUPH
+4805,"Precision Metal Workers",PRECMET
+4807,Woodworkers,WOODWRK
+4900,"Transportation & Materials Moving Workers",TRANMAT
+4901,"Air Transportation Workers",AIRTRAN
+4902,"Vehicle & Equipment Operators",VEHEQUP
+4903,"Water Transportation Workers",WATERTR
+5000,"Fine and Applied  Arts",FINEART
+5001,"Visual & Performing Arts",VISPERF
+5002,"Crafts, Folk Art, & Artisanry",ARTISAN
+5003,Dance,DANCE
+5004,"Design & Applied Arts",DEGNAPP
+5005,"Dramatic/Theater Arts & Stagecraft",DRAMTHE
+5006,"Film/Video & Photographic Arts",FVPHART
+5007,"Art (Painting, Drawing, Sculpture)",ART
+5009,Music,MUSIC
+5100,"Health Professions & Related Sciences(Except Nursing)",HLTPROF
+5101,Chiropractic,CHIROPT
+5102,"Communication Disorders Sciences & Services",COMMDIS
+5103,"Community Health Services",COMMHLT
+5104,Dentistry,DENTIST
+5105,"Dental Clinical Science/Graduate Dentistry",DENTLCL
+5106,"Dental Services",DENTSVC
+5107,"Health & Medical Administrative Services",HLTADMN
+5108,"Health & Medical Assistants",HLTASST
+5109,"Health & Medical Diagnostic & Treatment Services",TREATSV
+5110,"Health & Medical Laboratory Technologies",LABTECH
+5111,"Health & Medical Preparatory Programs",PREPPRG
+5112,Medicine,MEDCNE
+5113,"Medical Basic Sciences",MEDBASC
+5114,"Medical Clinical Sciences",MEDCLN
+5115,"Mental Health Services",MENTHTL
+5116,Nursing,NURS
+5117,Optometry,OPTOMET
+5118,"Ophthalmic/Optometric Services",OPHTHAM
+5119,"Osteopathic Medicine",OSTEOPA
+5120,Pharmacy,PHARMCY
+5121,Podiatry,PODIATY
+5122,"Public Health",PUBHLTH
+5123,"Rehabilitation/Therapeutic Services",REHABSV
+5124,"Veterinary Medicine",VETMED
+5125,"Veterinary Clinical Sciences",VETCLN
+5126,"Miscellaneous Health Aides",MISHLAD
+5127,"Miscellaneous Health Professions",MISHLPF
+5199,"Health Professions & Related Sciences",HLPF2YR
+5200,"Business Management & Administrative Services",BSMGAS
+5201,"Business, General",BUS
+5202,"Business Administration & Management",BUADMT
+5203,"Business - Accounting",ACCT
+5204,"Business Operations Support and Assistant Services",SECRSVC
+5205,"Business Communications",BUSCOMM
+5206,"Business/Managerial Economics",MGLECON
+5207,"Enterprise Management & Operation",ENTERPR
+5208,"Business - Finance",FINAN
+5209,"Hospitality Services Management",HOSPMGT
+5210,"Human Resources Management",HUMRESR
+5211,"International Business",INTLBUS
+5212,"Business Information & Data Processing Services",BUSINFO
+5213,"Business Quantitative Methods & Management Science",BUSMETH
+5214,"Business - Marketing",MKTG
+5215,"Real Estate",REALEST
+5216,Taxation,TAXATN
+5300,"High School/Secondary Diplomas and Certificates",HSSDC
+9900,Other,OTHER
+9901,"Developmental Math",DEVMATH
+9902,"Developmental Reading",DEVREAD
+9903,"Developmental Writing",DEVWRIT
+9904,"Developmental Natural Sciences",DEVNTSC
+9910,"English as a Second Language",ESL
+9920,"First Year Experience",FYEX
+1616,"American Sign Language",ASLANG
+3016,"Accounting and Computer Science",ACCACS
+3017,"Behavioral Sciences",BEHSCI
+3018,"Natural Sciences",NATSCI
+3019,"Nutrition Sciences",NUTSCI
+3021,"Holocaust and Related Studies",HOLOARELST
+3022,"Classical and Ancient Studies",CLSAANCST
+3023,"Intercultural/Multicultural and Diversity Studies",INTCMUTCADS
+3024,Neuroscience,NEUSCI
+4303,"Homeland Security",HOMESEC
+5198,"Physicians Assistant",PHYSAS
+1200,"PERSONAL AND CULINARY SERVICES",PCS
